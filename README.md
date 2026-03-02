@@ -1,5 +1,8 @@
 # COMP 3601 - Design and Analysis of Algorithms Tutorials
 
+## Tutorial #5 - Complex Multiplication + Recurrences + Log Proof
+- **Tutorial PDF:** [Tutorial 5](./Tutorial%205.pdf)
+
 ## Tutorial #4 - Bubble Sort & Binary Search Average-Case + Master Theorem
 - **Tutorial PDF:** [Tutorial 4](./Tutorial%204.pdf)
 
