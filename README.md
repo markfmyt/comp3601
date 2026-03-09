@@ -1,5 +1,8 @@
 # COMP 3601 - Design and Analysis of Algorithms Tutorials
 
+## Tutorial #6 - Linear Programming + Horner’s Rule + Binary Exponentiation
+- **Tutorial PDF:** [Tutorial 6](./Tutorial%206.pdf)
+
 ## Tutorial #5 - Complex Multiplication + Recurrences + Log Proof
 - **Tutorial PDF:** [Tutorial 5](./Tutorial%205.pdf)
 
