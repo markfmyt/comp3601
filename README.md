@@ -1,5 +1,8 @@
 # COMP 3601 - Design and Analysis of Algorithms Tutorials
 
+## Tutorial #7 - Coin Row + Change-Making + Floyd’s Algorithm
+- **Tutorial PDF:** [Tutorial 7](./Tutorial%207.pdf)
+
 ## Tutorial #6 - Linear Programming + Horner’s Rule + Binary Exponentiation
 - **Tutorial PDF:** [Tutorial 6](./Tutorial%206.pdf)
 
