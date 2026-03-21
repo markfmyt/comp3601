@@ -1,5 +1,8 @@
 # COMP 3601 - Design and Analysis of Algorithms Tutorials
 
+## Tutorial #8 - Floyd’s Algorithm + 0/1 Knapsack
+- **Tutorial PDF:** [Tutorial 8](./Tutorial%208.pdf)
+
 ## Tutorial #7 - Coin Row + Change-Making + Floyd’s Algorithm
 - **Tutorial PDF:** [Tutorial 7](./Tutorial%207.pdf)
 
