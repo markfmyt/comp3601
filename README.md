@@ -1,5 +1,8 @@
 # COMP 3601 - Design and Analysis of Algorithms Tutorials
 
+## Tutorial #9 - Greedy Knapsack + Huffman Code + Assignment Problem
+- **Tutorial PDF:** [Tutorial 9](./Tutorial%209.pdf)
+
 ## Tutorial #8 - Floyd’s Algorithm + 0/1 Knapsack
 - **Tutorial PDF:** [Tutorial 8](./Tutorial%208.pdf)
 
