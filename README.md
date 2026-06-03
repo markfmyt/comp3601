@@ -1,7 +1,7 @@
 # COMP 3601 - Design and Analysis of Algorithms Tutorials
 
 ## Final Grades
-- **Final Mark Breakdown:** [COMP 3601 2025-2026 Final Marks](./Grades/COMP%203601%202025-2026%20Final%20Marks.pdf)
+- **Final Mark Breakdown:** [2025-2026 Final Marks](./Grades/COMP%203601%202025-2026%20Final%20Marks.pdf)
 
 ## Tutorial #1 - Induction + Asymptotic Analysis
 - **Tutorial PDF:** [Tutorial 1](./Tutorial%201.pdf)
