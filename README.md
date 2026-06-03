@@ -1,34 +1,34 @@
 # COMP 3601 - Design and Analysis of Algorithms Tutorials
 
-## Grades
+## Final Grades
 - **Final Mark Breakdown:** [COMP 3601 2025-2026 Final Marks](./Grades/COMP%203601%202025-2026%20Final%20Marks.pdf)
 
-## Tutorial #10 - Subset-Sum Backtracking + Branch-and-Bound
-- **Tutorial PDF:** [Tutorial 10](./Tutorial%2010.pdf)
-
-## Tutorial #9 - Greedy Knapsack + Huffman Code + Assignment Problem
-- **Tutorial PDF:** [Tutorial 9](./Tutorial%209.pdf)
-
-## Tutorial #8 - Floyd’s Algorithm + 0/1 Knapsack
-- **Tutorial PDF:** [Tutorial 8](./Tutorial%208.pdf)
-
-## Tutorial #7 - Coin Row + Change-Making + Floyd’s Algorithm
-- **Tutorial PDF:** [Tutorial 7](./Tutorial%207.pdf)
-
-## Tutorial #6 - Linear Programming + Horner’s Rule + Binary Exponentiation
-- **Tutorial PDF:** [Tutorial 6](./Tutorial%206.pdf)
-
-## Tutorial #5 - Complex Multiplication + Recurrences + Log Proof
-- **Tutorial PDF:** [Tutorial 5](./Tutorial%205.pdf)
-
-## Tutorial #4 - Bubble Sort & Binary Search Average-Case + Master Theorem
-- **Tutorial PDF:** [Tutorial 4](./Tutorial%204.pdf)
-
-## Tutorial #3 - Induction + Big-Oh + Limits (L’Hôpital)
-- **Tutorial PDF:** [Tutorial 3](./Tutorial%203.pdf)
+## Tutorial #1 - Induction + Asymptotic Analysis
+- **Tutorial PDF:** [Tutorial 1](./Tutorial%201.pdf)
 
 ## Tutorial #2 - Recurrence Relations (Backward Substitution)
 - **Tutorial PDF:** [Tutorial 2](./Tutorial%202.pdf)
 
-## Tutorial #1 - Induction + Asymptotic Analysis
-- **Tutorial PDF:** [Tutorial 1](./Tutorial%201.pdf)
+## Tutorial #3 - Induction + Big-Oh + Limits (L’Hôpital)
+- **Tutorial PDF:** [Tutorial 3](./Tutorial%203.pdf)
+
+## Tutorial #4 - Bubble Sort & Binary Search Average-Case + Master Theorem
+- **Tutorial PDF:** [Tutorial 4](./Tutorial%204.pdf)
+
+## Tutorial #5 - Complex Multiplication + Recurrences + Log Proof
+- **Tutorial PDF:** [Tutorial 5](./Tutorial%205.pdf)
+
+## Tutorial #6 - Linear Programming + Horner’s Rule + Binary Exponentiation
+- **Tutorial PDF:** [Tutorial 6](./Tutorial%206.pdf)
+
+## Tutorial #7 - Coin Row + Change-Making + Floyd’s Algorithm
+- **Tutorial PDF:** [Tutorial 7](./Tutorial%207.pdf)
+
+## Tutorial #8 - Floyd’s Algorithm + 0/1 Knapsack
+- **Tutorial PDF:** [Tutorial 8](./Tutorial%208.pdf)
+
+## Tutorial #9 - Greedy Knapsack + Huffman Code + Assignment Problem
+- **Tutorial PDF:** [Tutorial 9](./Tutorial%209.pdf)
+
+## Tutorial #10 - Subset-Sum Backtracking + Branch-and-Bound
+- **Tutorial PDF:** [Tutorial 10](./Tutorial%2010.pdf)
