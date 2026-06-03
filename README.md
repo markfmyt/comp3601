@@ -1,5 +1,11 @@
 # COMP 3601 - Design and Analysis of Algorithms Tutorials
 
+## Grades
+- **Final Mark Breakdown:** [COMP 3601 2025-2026 Final Marks](./Grades/COMP%203601%202025-2026%20Final%20Marks.pdf)
+
+## Tutorial #10 - Subset-Sum Backtracking + Branch-and-Bound
+- **Tutorial PDF:** [Tutorial 10](./Tutorial%2010.pdf)
+
 ## Tutorial #9 - Greedy Knapsack + Huffman Code + Assignment Problem
 - **Tutorial PDF:** [Tutorial 9](./Tutorial%209.pdf)
 
